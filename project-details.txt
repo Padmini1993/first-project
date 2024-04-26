@@ -1,0 +1,53 @@
+Create file using CLI (bash - unix based terminal)
+
+creating file:
+touch <filename.ext>
+ex: touch data1.txt
+
+creating folder:
+mkdir <foldername>
+
+deleting file:
+rm data1.txt
+
+deleting folder:
+rm -rf students
+
+create subfolder:
+mkdir existingfolder/newfolder
+
+create file under folder:
+touch existingfolder/existingfolder/filename
+
+to list folders & files:
+ls
+
+to list foldeers under folder:
+ls existingfoldername
+
+to list file under sub folders:
+ls existingfoldername existingfoldername
+
+to change directory:
+cd existingfoldername
+
+to change two directories:
+cd existingfolder existingfolder
+
+to previous directory: 
+cd ..
+
+to move to 2 previous directories at a time:
+cd ../.. 
+
+more:
+cd ../../..
+
+
+
+
+
+
+resume.pdf
+gallery.png
+video.mp4
